@@ -58,3 +58,6 @@ input:focus {
   background: #0073de;
   transform: scale(0.98);
 }
+.s-btn:focus {
+  outline: none;
+}
